@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Kit Bolourchi</title>
-    <link>https://kitbolourchi.pages.dev/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Kit Bolourchi</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Sep 2024 19:33:30 +0100</lastBuildDate>
-    <atom:link href="https://kitbolourchi.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Sep 2024 19:37:28 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Best Developer I Know</title>
-      <link>https://kitbolourchi.pages.dev/posts/thebestdeveloperiknow/</link>
-      <pubDate>Sun, 22 Sep 2024 19:33:30 +0100</pubDate>
-      <guid>https://kitbolourchi.pages.dev/posts/thebestdeveloperiknow/</guid>
-      <description>I watched a presentation from the KotlinConf&#39;24 which peaked my interest. The presentation was titled, &amp;lsquo;The best programmer I know&amp;rsquo; and Daniel Terhorst-North was presenting. this is
+      <link>http://localhost:1313/posts/bestdeveloper/</link>
+      <pubDate>Sun, 22 Sep 2024 19:37:28 +0100</pubDate>
+      <guid>http://localhost:1313/posts/bestdeveloper/</guid>
+      <description>I watched a presentation from the KotlinConf&#39;24 which peaked my interest. The presentation was titled, &amp;lsquo;The best programmer I know&amp;rsquo; and Daniel Terhorst-North was presenting.
 1) Getting the job done Part 1 of the talk mentioned the qualities of the best programmer is &amp;ldquo;Getting the job done&amp;rdquo;
 Just Start Resist procrastination
 Procrastination is difficult to handle. It is very easy to scroll on your phone, play video games or do endless research / tutorial.</description>
     </item>
     <item>
       <title>Firstpost</title>
-      <link>https://kitbolourchi.pages.dev/posts/firstpost/</link>
+      <link>http://localhost:1313/posts/firstpost/</link>
       <pubDate>Thu, 30 May 2024 18:14:19 +0100</pubDate>
-      <guid>https://kitbolourchi.pages.dev/posts/firstpost/</guid>
+      <guid>http://localhost:1313/posts/firstpost/</guid>
       <description>This is my first post</description>
     </item>
   </channel>

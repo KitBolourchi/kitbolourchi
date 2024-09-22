@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kitbolourchi.pages.dev/</loc>
-    <lastmod>2024-09-22T19:33:30+01:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-22T19:37:28+01:00</lastmod>
   </url><url>
-    <loc>https://kitbolourchi.pages.dev/posts/</loc>
-    <lastmod>2024-09-22T19:33:30+01:00</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-09-22T19:37:28+01:00</lastmod>
   </url><url>
-    <loc>https://kitbolourchi.pages.dev/posts/thebestdeveloperiknow/</loc>
-    <lastmod>2024-09-22T19:33:30+01:00</lastmod>
+    <loc>http://localhost:1313/posts/bestdeveloper/</loc>
+    <lastmod>2024-09-22T19:37:28+01:00</lastmod>
   </url><url>
-    <loc>https://kitbolourchi.pages.dev/posts/firstpost/</loc>
+    <loc>http://localhost:1313/posts/firstpost/</loc>
     <lastmod>2024-05-30T18:14:19+01:00</lastmod>
   </url><url>
-    <loc>https://kitbolourchi.pages.dev/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://kitbolourchi.pages.dev/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
